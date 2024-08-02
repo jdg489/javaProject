@@ -1,0 +1,12 @@
+package test240731.object1;
+
+import java.util.Scanner;
+
+public class FarmMenu {
+	Scanner sc = new Scanner(System.in);
+	FarmController fc = new FarmController();
+	
+	public void mainMenu() {
+		
+	}
+}

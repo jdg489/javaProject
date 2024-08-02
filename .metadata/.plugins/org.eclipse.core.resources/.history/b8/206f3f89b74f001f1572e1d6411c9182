@@ -1,0 +1,12 @@
+package Soccer;
+
+import java.util.Scanner;
+
+public class SoccerMenu {
+	Scanner sc = new Scanner(System.in);
+	DatePrinter dp = new DatePrinter();
+	
+	public void mainMenu() {
+		System.out.println("사커게임에 오신걸 환영합니다.");
+	}
+}

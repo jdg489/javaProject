@@ -1,0 +1,14 @@
+package test240802.object1;
+
+import java.util.ArrayList;
+
+import test240731.object1.Fruit;
+
+public class MyCollection {
+	
+	public void test() {
+		ArrayList<Fruit> list = new ArrayList<Fruit>();
+		
+		list.add(new Frult("사과","빨강"));
+	}
+}

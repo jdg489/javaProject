@@ -1,0 +1,14 @@
+package Soccer;
+
+import java.util.Calendar;
+
+public class DatePrinter {
+	
+	// 캘린더 클래스를 파라미터로 전달받아
+	// 그 객체가 포함하고 있는 시각을 출력하는 메소드
+	
+	public static void printDateTime(Calendar cal) {
+		
+		// 년, 월, 일, 시, 분, 초 => 24시간제
+	}
+}

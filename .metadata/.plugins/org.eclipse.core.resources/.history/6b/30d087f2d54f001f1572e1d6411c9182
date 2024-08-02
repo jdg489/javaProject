@@ -1,0 +1,6 @@
+package Soccer;
+
+import java.util.HasMap;
+public class SoccerController {
+	HasMap map = new HasMap();
+}

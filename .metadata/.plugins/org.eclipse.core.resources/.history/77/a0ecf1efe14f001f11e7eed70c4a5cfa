@@ -1,0 +1,22 @@
+package a.basic;
+
+public interface Animal {
+	void eat();
+	void sleep();
+}
+
+class Dog implements Animal {
+
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void sleep() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

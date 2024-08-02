@@ -1,0 +1,8 @@
+package test_20240802;
+
+public class Person {
+
+	for(int i = 0; i <= pArr.length; i++) {
+		System.out.println(pArr[i].getClass());
+	}
+}

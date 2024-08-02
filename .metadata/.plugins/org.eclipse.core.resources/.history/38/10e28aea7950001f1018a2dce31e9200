@@ -1,0 +1,16 @@
+package test240802.object1;
+
+import java.util.Scanner;
+
+
+public class Test1 {
+	public static void main(String[]args) {
+		Scanner sc = new Scanner(System.in);
+		
+		Person1[] pArr = new Person[3];
+		
+		for(int i = 0; i <=pArr.length; i++) {
+			System.out.println(pArr[i].getName());
+		}
+	}
+}

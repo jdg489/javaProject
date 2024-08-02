@@ -1,0 +1,44 @@
+package test240731.object1;
+
+import java.util.Scanner;
+
+public class FarmMenu {
+	Scanner sc = new Scanner(System.in);
+	FarmController fc = new FarmController();
+	
+	public void mainMenu() {
+		System.out.println("====== KH 마트 ======");
+	}
+	
+	public void adminMenu() {
+			
+	}
+	
+	public void customerMenu() {
+		
+	}
+	
+	public void addNewKind() {
+		
+	}
+	
+	public void changeAmount() {
+		
+	}
+	
+	public void printFarm() {
+		
+	}
+	
+	public void buyFarm() {
+		
+	}
+	
+	public void removerFarm() {
+			
+	}
+	
+	public void printBuyFarm() {
+		
+	}
+}

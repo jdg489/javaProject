@@ -1,0 +1,11 @@
+package test240731.object1;
+
+public class Nut extends Farm{
+	private String name;
+
+	public Nut() {
+		super();
+	}
+	
+	
+}

@@ -1,0 +1,19 @@
+package Soccer;
+
+import java.util.Scanner;
+
+public class SoccerMenu {
+	Scanner sc = new Scanner(System.in);
+	DatePrinter dp = new DatePrinter();
+	
+	public void mainMenu() {
+		System.out.println("사커게임에 오신걸 환영합니다.");
+		
+		while(true) {
+			System.out.println("1. 회원가입 ");
+			System.out.println("2. 계정생성");
+			System.out.println("3. 계정삭제");
+			System.out.println("9. 종료");
+		}
+	}
+}

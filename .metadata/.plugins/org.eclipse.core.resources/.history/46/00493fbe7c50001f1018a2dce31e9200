@@ -1,0 +1,13 @@
+package test_20240802;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		Personn[] pArr = new Personn[3];
+		
+		for(int i = 0; i <= pArr.length; i++) {
+			System.out.println(pArr[i].getClass());
+		}
+	}
+}
